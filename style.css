@@ -99,13 +99,13 @@ body {
 .percent .number h2 {
     color: #777;
     font-weight: 700;
-    font-size: 40px;
+    font-size: 30px;
     transition: 0.5s;
 }
 
 .card:hover .percent .number h2 {
     color: #fff;
-    font-size: 60px;
+    font-size: 50px;
 }
 
 .percent .number h2 span {
