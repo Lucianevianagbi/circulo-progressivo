@@ -69,7 +69,7 @@
     const timer = setInterval(function () {
       current += increment;
       obj1.innerHTML = current;
-      obj2.style.strokeDashoffset = `calc(440 - (440 * ${current}) / 100)`
+      obj2.style.strokeDashoffset = `${440 - (440 * current) / 100}`
       if (current === end) {
         clearInterval(timer);
       }
