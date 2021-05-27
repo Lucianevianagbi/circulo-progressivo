@@ -1,5 +1,4 @@
-   #  <img src="https://github.com/everton-dgn/everton-dgn/blob/main/gif/Hi.gif?raw=true" width="30px">  Circulo-de-progresso-circular
-
+   #  <img src="https://github.com/everton-dgn/everton-dgn/blob/main/gif/Hi.gif?raw=true" width="30px">  círculo progressivo com css
 ###   :book: Projeto para fins de estudo
 ###   📽️ Link do video de referência: https://www.youtube.com/watch?v=Ft73g5Kyknw&ab_channel=OnlineTutorials
 
