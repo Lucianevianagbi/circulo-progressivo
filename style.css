@@ -4,6 +4,15 @@
     box-sizing: border-box;
     font-family: 'Montserrat', sans-serif;
 }
+ #titulo h2 {
+   position: absolute;
+   color: #00a1ff;
+   font-family: "montserrat" sans-serif;
+   font-size: 40px;
+   text-align: center;
+   padding: 10px 80px;
+   margin-top: -300px;
+ }
 
 body {
     display: flex;
