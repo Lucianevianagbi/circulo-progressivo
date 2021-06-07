@@ -23,3 +23,5 @@
     ![Imagem do projeto](https://raw.githubusercontent.com/Lucianevianagbi/Barra-de-progresso-circular/master/screenshots/img4.jpg)
 <br>
 ## :woman: Autora:  Luciane Viana
+<br> <br>
+### :link: LinkedIn: linkedin.com/in/luciane-viana
