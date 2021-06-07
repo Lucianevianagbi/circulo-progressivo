@@ -24,4 +24,4 @@
 <br>
 ## :woman: Autora:  Luciane Viana
 <br> 
-## :link: LinkedIn: https://www.linkedin.com/in/luciane-viana/
+## :link: LinkedIn: https://www.linkedin.com/in/luciane-viana
